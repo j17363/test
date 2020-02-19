@@ -2,7 +2,7 @@
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tuistuis/test)
 ![](https://img.shields.io/badge/ver-0.1-yellow)
-![](https://img.shields.io/badge/python-red)
+![](https://img.shields.io/badge/python-3-red)
 ![](https://img.shields.io/badge/日本語-9cf)  
   
 九九の表を１から任意の数までの範囲を表示します。  
